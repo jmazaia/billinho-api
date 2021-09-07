@@ -18,6 +18,12 @@ yarn install
 
 ## Usage
 
+> Instalar Docker
+
+```sh
+docker run --name postgres -e POSTGRES_PASSWORD=docker -d -p 5432:5432 postgres
+```
+
 ```sh
 yarn dev
 ```
@@ -28,6 +34,7 @@ yarn dev
 
 * Github: [@jmazaia](https://github.com/jmazaia)
 * LinkedIn: [@https:\/\/www.linkedin.com\/in\/jonathan-mazaia\/](https://linkedin.com/in/https:\/\/www.linkedin.com\/in\/jonathan-mazaia\/)
+
 
 
 _This README was generated with ❤️ by [readme-md-generator](https://github.com/kefranabg/readme-md-generator)_
