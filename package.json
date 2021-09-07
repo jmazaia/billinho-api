@@ -1,8 +1,9 @@
 {
-  "name": "template-node",
+  "name": "billinho-api",
   "version": "1.0.0",
   "main": "index.js",
   "license": "MIT",
+  "author": "Jonathan Mazaia",
   "scripts": {
     "dev": "nodemon src/server.js",
     "build": "sucrase ./src -d ./dist --transforms imports"
