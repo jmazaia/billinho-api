@@ -29,9 +29,5 @@ yarn dev
 * Github: [@jmazaia](https://github.com/jmazaia)
 * LinkedIn: [@https:\/\/www.linkedin.com\/in\/jonathan-mazaia\/](https://linkedin.com/in/https:\/\/www.linkedin.com\/in\/jonathan-mazaia\/)
 
-## Show your support
 
-Give a ⭐️ if this project helped you!
-
-***
 _This README was generated with ❤️ by [readme-md-generator](https://github.com/kefranabg/readme-md-generator)_
